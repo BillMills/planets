@@ -1,2 +1,2 @@
 Mars is a reddish planet.
-It has two moons.
+It has two moons, Deimos and Phobos.

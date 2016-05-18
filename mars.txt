@@ -1,1 +1,3 @@
 Mars is a reddish planet.
+It has two moons.
+We've never been there.
